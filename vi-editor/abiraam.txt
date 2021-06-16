@@ -5,3 +5,14 @@ this line is writing to practice vi editor
 esc i is used to insert mode in vi editor
 esc:w and then enter is used to savethe file in vi editor
 esc:q ind then enter is used to exit from the vi editor
+esc is used to enter into command line mode
+G is used to move the cursor to end of the file
+$is used to move the cursor to the end of the line
+H is used to move the cursor to the top of the file
+^ is used to move the cursor to the start of the line
+o is used to below the cursor new line
+O above the cursor new line
+r replace
+R continous replace
+a append
+esc: and then enter is used to enter into execution mode
