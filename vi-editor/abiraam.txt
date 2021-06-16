@@ -16,3 +16,13 @@ r replace
 R continous replace
 a append
 esc: and then enter is used to enter into execution mode
+dd delete a single line
+ndd to delete multiple lines
+n number of lines to delete
+yy copy a line
+nyy copy number of lines
+p paste the line
+u undo the line
+dw delete a word
+ndw number of words to delete
+x character wise delete
